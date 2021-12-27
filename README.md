@@ -18,8 +18,8 @@ Maintained by [Altafino - Full-Stack Go/JS Development](https://altafino.com)
 ## Installation
 
 ```
-git clone https://github.com/altafino/react-webpack-5-tailwind-2.git
-cd react-webpack-5-tailwind-2
+git clone https://github.com/brainhell/react-webpack-tailwind.git
+cd react-webpack-tailwind
 yarn / npm i
 ```
 
